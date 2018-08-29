@@ -11,6 +11,6 @@ class User {
 
     @Override
     public String toString() {
-        return "User{name='" + name + '\'' + ", email='" + email + '\'' + ", address='" + address + '\'' + '}';
+        return "User{name=" + name + ", email=" + email + ", address=" + address + '}';
     }
 }

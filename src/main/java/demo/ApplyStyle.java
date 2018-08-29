@@ -2,7 +2,7 @@ package demo;
 
 import static demo.Apply.apply;
 
-public class ApplyWithLambdaStyle {
+public class ApplyStyle {
 
     private static User user = apply(new User("Freewind"), self -> {
         self.email = "hello@test.com";
