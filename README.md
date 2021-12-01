@@ -1,12 +1,9 @@
-Java Apply with Lambda Demo
+Java Define Parameter Allows Lambda Demo
 ===========================
 
-Use `apply` style, you can create an object and also have a place to do more with it.
-The code is clearer.
-
-See `NormalStyle.java` and `ApplyWithLambdaStyle.java` for more details.
+声明为`Function<Integer, Integer>`等，即可
 
 Run
 ---
 
-Run `NormalStyle.java` or `ApplyWithLambdaStyle.java` in your IDE.
+Run `Hello.java` in your IDE.
